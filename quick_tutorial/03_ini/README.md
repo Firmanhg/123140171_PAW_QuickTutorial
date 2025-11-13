@@ -1,5 +1,3 @@
----
-
 # **README – Application Configuration with .ini Files (Step 03)**
 
 ##  1. Overview
