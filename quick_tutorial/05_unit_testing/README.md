@@ -102,7 +102,7 @@ Output:
 
 # **7. Analisis**
 
-### 🔹 Pyramid mendukung testing secara mendalam
+### Pyramid mendukung testing secara mendalam
 
 Pyramid menyediakan modul `pyramid.testing` untuk:
 
@@ -114,7 +114,7 @@ Ini membuat testing cepat dan mudah.
 
 ---
 
-### 🔹 Mengapa import view dilakukan di dalam metode test?
+### Mengapa import view dilakukan di dalam metode test?
 
 Karena:
 
@@ -127,7 +127,7 @@ Inilah prinsip “unit” dalam unit testing.
 
 ---
 
-### 🔹 Mengapa kita hanya menguji status code?
+### Mengapa kita hanya menguji status code?
 
 Karena:
 
@@ -270,6 +270,6 @@ Pada langkah ini kamu belajar:
 * membuat test yang aman dan terisolasi
 * debugging lebih cepat dibanding lewat browser
 
-Testing sangat penting untuk menjaga kualitas aplikasi Pyramid.
-
 ---
+<img width="671" height="307" alt="praktikumpaw5" src="https://github.com/user-attachments/assets/d2dac48b-f25d-41e8-8ffc-29defcb60f49" />
+
