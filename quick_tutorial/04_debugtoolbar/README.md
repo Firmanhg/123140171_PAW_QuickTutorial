@@ -1,5 +1,3 @@
----
-
 # **README – Easier Development with pyramid_debugtoolbar (Step 04)**
 
 ## 1. Overview
