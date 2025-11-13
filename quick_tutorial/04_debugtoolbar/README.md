@@ -92,7 +92,7 @@ Toolbar akan muncul di sisi kanan browser, berupa tombol berbentuk panel.
 
 # **7. Analisis**
 
-### 🔹 Apa itu Pyramid Add-on?
+### Apa itu Pyramid Add-on?
 
 Add-on adalah package Python yang menyediakan:
 
@@ -107,7 +107,7 @@ Add-on adalah package Python yang menyediakan:
 
 ---
 
-### 🔹 Mengapa konfigurasi dilakukan lewat `.ini`?
+### Mengapa konfigurasi dilakukan lewat `.ini`?
 
 Karena:
 
@@ -125,7 +125,7 @@ langsung menonaktifkan toolbar.
 
 ---
 
-### 🔹 Kenapa debugtoolbar membantu?
+### Kenapa debugtoolbar membantu?
 
 Karena:
 
@@ -138,7 +138,7 @@ Sangat membantu developer ketika mencari error.
 
 ---
 
-### 🔹 Tentang Setuptools extras
+### Tentang Setuptools extras
 
 `extras_require` adalah daftar fitur opsional proyek.
 Misalnya:
