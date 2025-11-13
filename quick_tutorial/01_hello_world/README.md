@@ -1,5 +1,3 @@
-Berikut **README.md** lengkap yang berisi **ringkasan materi, analisis, dan jawaban extra credit** berdasarkan teks yang kamu berikan.
-
 ---
 
 # **README – Pyramid Single-File Web Application**
