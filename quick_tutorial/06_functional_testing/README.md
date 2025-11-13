@@ -196,6 +196,5 @@ Ini adalah fondasi penting sebelum kamu masuk ke bab berikutnya yang berhubungan
 
 ---
 
-Tinggal bilang saja!
 <img width="613" height="312" alt="praktikumpaw6" src="https://github.com/user-attachments/assets/24f49ff3-16d3-426f-9e6b-3dc730a41092" />
 
